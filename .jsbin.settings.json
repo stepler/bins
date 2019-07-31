@@ -1,0 +1,8 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "editor.lineWrapping": true,
+  "app.splitColumns": false,
+  "app.theme": "dark",
+  "app.result": "console"
+}
